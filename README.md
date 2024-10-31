@@ -62,6 +62,10 @@ Contributions to this project are welcome and encouraged. If you find any issues
 
 6. Your pull request will be reviewed, and feedback will be provided.
 
+## Project Demo
+
+https://www.linkedin.com/posts/usaidhussain_dataanalysis-datascience-dataanlytics-activity-7090558622073573376-oi_s?utm_source=share&utm_medium=member_desktop
+
 
 
 ---
